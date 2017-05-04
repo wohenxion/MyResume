@@ -17,7 +17,7 @@
                 compCode: '',
                 fullStyle: [
                     `/*
-* Inspired by http://strml.net/
+* Inspired by http://strml.net/   模仿 https://github.com/jirengu-inc/animating-resume
 * 大家好，我是方方
 * 二月了，好多公司都在招聘，你是不是也在准备简历呀。
 * 说做就做，我也来写一份简历！
