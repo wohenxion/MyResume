@@ -1,6 +1,7 @@
 # my-resume
 
-> lifeng`s  resume
+> 模仿饥人谷出品：[一个会动的简历](https://github.com/jirengu-inc/animating-resume) 
+> [点我预览](https://wohenxion.github.io/MyResume/)
 
 ## Build Setup
 
